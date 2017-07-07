@@ -1,0 +1,50 @@
+
+
+body {
+	margin: 5% 1% 1% 1%;
+}
+
+.navbar-inverse .navbar-nav>li>user-profile>a {
+    color: white;
+	padding: 15px;
+	display: block;
+}
+
+.contact {
+	display: inline-block;
+	width: 200px;
+	border: 3px solid black;
+	border-radius: 5px;
+	padding: 4%;
+}
+
+contact-detail {
+	display: table-row
+}
+
+.chg-font {
+	font-weight: bold;
+	font-size: 4rem;
+}
+
+.margin-top-2 {
+	margin-top: 2%;
+}
+
+.margin-top-1 {
+	margin-top: 1%;
+}
+
+.chg-font-1 {
+	color: white;
+	font-weight: bold;
+	font-size: 3rem;
+}
+
+.btn {
+	font-weight: bold;
+}
+
+.margin-top-neg {
+	margin-top: -4%;
+}
